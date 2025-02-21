@@ -9,7 +9,8 @@
         JP  /00A
         HM  /00F
         
-        @   /0014
+        @   /0012
+        k   /0000
         LD  RES
         ML  I
         MM  RES
